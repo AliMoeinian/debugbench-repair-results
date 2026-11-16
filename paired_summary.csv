@@ -1,0 +1,9 @@
+model,configuration,eligible_pairs,pattern_only_accepted,baseline_only_accepted,both_accepted,neither_accepted
+Qwen,Reflexion,1437,275,172,704,286
+Qwen,Self-Debugging,1438,270,157,719,292
+Llama,Reflexion,1438,203,272,283,680
+Llama,Self-Debugging,1437,69,462,92,814
+Granite,Reflexion,1437,183,176,165,913
+Granite,Self-Debugging,1437,194,162,179,902
+Mistral,Reflexion,1438,343,27,36,1032
+Mistral,Self-Debugging,1438,331,23,40,1044
